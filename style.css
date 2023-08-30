@@ -1,0 +1,186 @@
+.instient-technical-challenge-window,
+.instient-technical-challenge-window * {
+  box-sizing: border-box;
+}
+.instient-technical-challenge-window {
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 1188px;
+  height: 757px;
+  position: relative;
+}
+.header-frame-left-column {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.z-1 {
+  flex-shrink: 0;
+  width: 99px;
+  height: 100px;
+  position: relative;
+}
+.frame-20 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: undefined;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.zip {
+  color: #000000;
+  text-align: left;
+  font: var(--section-title, 600 40px "Inter", sans-serif);
+  position: relative;
+}
+.messenger {
+  color: var(--label-text, #c7c7c7);
+  text-align: left;
+  font: var(--label-text, 400 18px "Inter", sans-serif);
+  position: relative;
+}
+.frame-19 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.v-1 {
+  flex-shrink: 0;
+  width: 69px;
+  height: 69px;
+  position: relative;
+}
+.s-1 {
+  margin: 0 0 0 -30px;
+  flex-shrink: 0;
+  width: 69px;
+  height: 69px;
+  position: relative;
+}
+.g-1 {
+  margin: 0 0 0 -30px;
+  flex-shrink: 0;
+  width: 69px;
+  height: 69px;
+  position: relative;
+}
+.message-frame-center-column {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-15 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.message {
+  color: #000000;
+  text-align: left;
+  font: var(--section-title, 600 40px "Inter", sans-serif);
+  position: relative;
+}
+.enter-message-below {
+  color: var(--label-text, #c7c7c7);
+  text-align: left;
+  font: var(--label-text, 400 18px "Inter", sans-serif);
+  position: relative;
+}
+.rectangle-1 {
+  border-style: solid;
+  border-color: #ababab;
+  border-width: 1px;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.button-frame-right-column {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 184px;
+  position: relative;
+}
+.button {
+  background: var(--button-affirm, #32c1ff);
+  border-radius: 8px;
+  padding: 10px 30px 10px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.button2 {
+  color: var(--button-text, #ffffff);
+  text-align: left;
+  font: 700 25px "Inter", sans-serif;
+  position: relative;
+}
+.button3 {
+  background: #ff0000;
+  border-radius: 8px;
+  padding: 10px 30px 10px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 53px;
+  position: relative;
+  overflow: hidden;
+}
